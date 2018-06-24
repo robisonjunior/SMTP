@@ -30,3 +30,5 @@ God at Heaven
 .
 
 quit
+
+site conversor 64 bits : https://4devs.com.br/codificar_decodificar_base64
