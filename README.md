@@ -1,5 +1,5 @@
 # SMTP
-#
+# Robison Egydio Lopes Jr
 # Este projeto tem a finalidade de mostrar como enviar um email autenticado via Telnet
 # 23/06/2018
 
